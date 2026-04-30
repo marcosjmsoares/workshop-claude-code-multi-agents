@@ -1,0 +1,6 @@
+preencha o documento de agent-teams-reference.md com as instruções do site https://code.claude.com/docs/pt/agent-teams
+
+escreva um arquivo de settings para habilitar o modo de teams
+
+abre o claude cli, copia as informações do arquivo goal e cola
+
